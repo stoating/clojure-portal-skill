@@ -1,0 +1,17 @@
+{
+  "name": "clojure-portal-skill",
+  "metadata": {
+    "description": "Clojure Portal skill set for AI coding agents - tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers."
+  },
+  "owner": {
+    "name": "stoating"
+  },
+  "plugins": [
+    {
+      "name": "clojure-portal",
+      "source": "./",
+      "description": "Clojure Portal skill - tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers.",
+      "version": "0.1.0"
+    }
+  ]
+}
