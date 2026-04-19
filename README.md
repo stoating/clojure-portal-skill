@@ -10,14 +10,14 @@ Claude Code via this plugin marketplace:
 
 ```text
 /plugin marketplace add stoating/clojure-portal-skill
-/plugin install clojure-portal@clojure-portal-skill
+/plugin install portal@clojure-portal-skill
 ```
 
 Claude Code via the aggregate marketplace:
 
 ```text
 /plugin marketplace add stoating/plugins
-/plugin install clojure-portal@stoating
+/plugin install portal@stoating
 ```
 
 Manual context usage:
