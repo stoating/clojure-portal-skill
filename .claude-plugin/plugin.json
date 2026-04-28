@@ -1,6 +1,5 @@
 {
   "name": "portal",
   "description": "Clojure Portal skill - tap-driven data inspection, portal.api, viewers, datafy/nav, nREPL middleware, remote clients, CLI usage, and editor launchers.",
-  "version": "0.1.0",
-  "skills": "portal"
+  "version": "0.1.0"
 }
